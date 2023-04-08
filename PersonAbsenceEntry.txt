@@ -1,0 +1,8 @@
+PersonNumber,Employer,AbsenceType,AbsenceReason,AbsenceStatus,ApprovalStatus,StartDate,StartTime,EndDate,EndTime,Comments
+79,US1 Legal Entity,Vacation,,SUBMITTED,APPROVED,2020/05/08,08:30,2020/05/09,17:30,Data Loaded Using Transformation Formula
+5,US1 Legal Entity,Vacation,,SUBMITTED,APPROVED,2020/05/04,00:00,2020/05/04,23:59,Data Loaded Using Transformation Formula
+699,US1 Legal Entity,Vacation,,SUBMITTED,APPROVED,2020/04/05,12:00,2020/04/06,21:00,Data Loaded Using Transformation Formula
+100,US1 Legal Entity,Vacation,,SUBMITTED,APPROVED,2020/04/06,00:00,2020/04/07,23:59,Data Loaded Using Transformation Formula
+691,US1 Legal Entity,Vacation,,SUBMITTED,APPROVED,2020/04/06,08:30,2020/04/08,16:30,Data Loaded Using Transformation Formula
+542,US1 Legal Entity,Vacation,,SUBMITTED,APPROVED,2020/04/06,00:00,2020/04/08,23:59,Data Loaded Using Transformation Formula
+541,US1 Legal Entity,Vacation,,SUBMITTED,APPROVED,2020/04/05,08:30,2020/04/07,16:30,Data Loaded Using Transformation Formula
